@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rudrabhuya_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rudrabhuya_n" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rudra bhuyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudra bhuyan" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/rudra-bhuyan-771387290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudra bhuyan" height="30" width="40" /></a>
 <a href="https://instagram.com/ru_draa_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ru_draa_01" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/NZ6Gk9pQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/NZ6Gk9pQ" height="30" width="40" /></a>
 </p>
