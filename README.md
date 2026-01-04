@@ -12,20 +12,18 @@ and exploring how machine learning models can solve real-world problems.
 <p align="center">
 My interests include UI/UX design, modern web technologies, core ML concepts,  
 and creating data-driven, user-centric applications.  
-I strongly believe in learning by building and improving through hands-on projects.
+I believe in learning by building and improving through hands-on projects.
 </p>
 
 <hr/>
 
 <h3>🌱 What I'm Currently Learning</h3>
-
 <ul>
   <li>Machine Learning models & applied concepts</li>
   <li>Front-End Development with React and modern CSS</li>
 </ul>
 
 <h3>📬 Get in Touch</h3>
-
 <ul>
   <li><strong>Email:</strong> bhuyanrudra117@gmail.com</li>
 </ul>
@@ -73,11 +71,17 @@ I strongly believe in learning by building and improving through hands-on projec
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudra-011&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=rudra-011&show_icons=true&theme=tokyonight&hide_border=true" 
+    width="48%" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rudra-011&theme=tokyonight&hide_border=true" width="70%"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=rudra-011&theme=tokyonight&hide_border=true" 
+    width="70%" 
+  />
 </p>
 
 <p align="center">
