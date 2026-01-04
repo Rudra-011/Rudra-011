@@ -73,11 +73,11 @@ I strongly believe in learning by building and improving through hands-on projec
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudra-bhuyan&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rudra-011&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rudra-bhuyan&theme=tokyonight&hide_border=true" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=rudra-011&theme=tokyonight&hide_border=true" width="70%"/>
 </p>
 
 <p align="center">
