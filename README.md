@@ -67,5 +67,5 @@ by building and improving through hands-on projects.
 ---
 
 <p align="center">
-✨ Always learning • Always building • Always improving ✨
+✨ Always learning  Always building Always improving ✨
 </p>
