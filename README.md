@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rudra  Bhuyan</h1>
+<h1 align="center">Hi 👋, I'm Rudra Bhuyan</h1>
 
 <p align="center">
 🌍 Front-End Developer & Machine Learning Enthusiast
