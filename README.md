@@ -64,10 +64,6 @@ by building and improving through hands-on projects.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
 </p>
 
----
-## 📊 GitHub Stats Test
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudra-011)
 
 
 <p align="center">
