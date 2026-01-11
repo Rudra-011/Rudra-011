@@ -65,6 +65,10 @@ by building and improving through hands-on projects.
 </p>
 
 ---
+## 📊 GitHub Stats Test
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudra-011)
+
 
 <p align="center">
 ✨ Always learning  Always building Always improving ✨
