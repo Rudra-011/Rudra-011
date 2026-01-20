@@ -19,7 +19,7 @@ by building and improving through hands-on projects.
 
 ### 🌱 What I'm Currently Learning
 - Machine Learning models & applied concepts  
-- Front-End Development with React and modern CSS  
+- Front-End Development with React & modern CSS  
 
 ---
 
