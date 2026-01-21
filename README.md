@@ -6,7 +6,7 @@
 
 <p align="center">
 I’m a passionate learner focused on building modern, responsive web interfaces  
-& exploring how machine learning models can solve real-world problems.
+and exploring how machine learning models can solve real-world problems.
 </p>
 
 <p align="center">
