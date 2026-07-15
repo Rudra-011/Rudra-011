@@ -1,71 +1,93 @@
-<h1 align="center">Hi 👋, I'm Rudra  Bhuyan</h1>
+<!-- ===================================================== -->
+<!--                    HEADER BANNER                       -->
+<!-- ===================================================== -->
 
 <p align="center">
-🌍 Front-End Developer and Machine Learning Enthusiast
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080808,50:151515,100:252525&text=Rudra%20Bhuyan&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Machine%20Learning%20Enthusiast%20%7C%20Front-End%20Developer&descAlignY=59&descSize=17"
+    width="100%"
+    alt="Rudra Bhuyan Banner"
+  />
+</p>
+
+<!-- ===================================================== -->
+<!--                    TYPING INTRO                        -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=9B7EDE&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Rudra+Bhuyan;Computer+Science+Engineering+Student;Machine+Learning+%26+Computer+Vision+Enthusiast;React+Front-End+Developer;Always+Learning+%7C+Building+%7C+Improving"
+      alt="Typing Introduction"
+    />
+  </a>
 </p>
 
 <p align="center">
-I’m a passionate learner focused on building modern, responsive web interfaces  
-& exploring how machine learning models can solve real-world problems.
+  <img
+    src="https://komarev.com/ghpvc/?username=Rudra-011&label=PROFILE+VIEWS&color=6f42c1&style=for-the-badge"
+    alt="Profile Views"
+  />
+  <a href="https://github.com/Rudra-011?tab=followers">
+    <img
+      src="https://img.shields.io/github/followers/Rudra-011?label=FOLLOWERS&style=for-the-badge&color=6f42c1"
+      alt="GitHub Followers"
+    />
+  </a>
 </p>
 
-<p align="center">
-My interests include UI/UX design, modern web technologies, core ML concepts,  
-and creating data-driven, user-centric applications. I strongly believe in learning  
-by building and improving through hands-on projects.
+<br>
+
+<!-- ===================================================== -->
+<!--                 TERMINAL PROFILE CARD                  -->
+<!-- ===================================================== -->
+
+<table align="center">
+<tr>
+<td width="30%" align="center">
+
+<img
+  src="https://github.com/Rudra-011.png"
+  width="190"
+  style="border-radius:50%"
+  alt="Rudra Bhuyan"
+/>
+
+<br><br>
+
+<h3>Rudra Bhuyan</h3>
+
+<p>
+  <b>Developer · ML Enthusiast</b><br>
+  📍 Odisha, India
 </p>
 
----
-
-### 🌱 What I'm Currently Learning
-- Machine Learning models & applied concepts  
-- Front-End Development with React & modern CSS  
-
----
-
-## 📬 Get in Touch
-- **Email:** bhuyanrudra117@gmail.com  
-
----
-
-<h3 align="center">🔗 Connect With Me</h3>
-
-<p align="center">
-<a href="https://twitter.com/rudrabhuya_n" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="36" />
+<a href="mailto:bhuyanrudra117@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-Contact%20Me-6f42c1?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
-<a href="https://www.linkedin.com/in/rudra-bhuyan-771387290" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="36" />
-</a>
-<a href="https://instagram.com/ru_draa_01" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="36" />
-</a>
-<a href="https://discord.gg/NZ6Gk9pQ" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="36" />
-</a>
-</p>
 
----
+</td>
 
-<h3 align="center">⚙️ Tech Stack</h3>
+<td width="70%">
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-</p>
+```bash
+rudra@github:~$ ./profile --details
 
+Name        : Rudra Bhuyan
+Role        : Computer Science Engineering Student
+Focus       : Machine Learning and Front-End Development
+Location    : Odisha, India
 
+Languages   : Python, C, C++, JavaScript
+Frontend    : React, HTML, CSS, Tailwind CSS
+ML / Data   : PyTorch, Scikit-learn, Pandas, NumPy
+Interests   : Computer Vision, Deep Learning, UI/UX
+Learning    : Applied ML and modern web development
 
-<p align="center">
-✨ Always learning  Always building Always improving ✨
-</p>
+Status      : Building intelligent and user-focused applications
+Goal        : Turn real-world problems into practical solutions
+
+rudra@github:~$ echo "Always learning. Always building."
